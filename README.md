@@ -1,6 +1,6 @@
 # ChestSystem
 Recreated clash royale chest system.
-<br>-Implemented MVC code architecture for recreating chest system from clash royale.</br>
+<br>-Implemented MVC code architecture for creating different types of chests.</br>
 -Implemented coroutines for timed chest slots.
 <br>
 ![2022-03-31 19_41_18-Chest System - ChestSystem - PC, Mac   Linux Standalone - Unity 2020 2 2f1 Perso](https://user-images.githubusercontent.com/71116433/161077944-123d3db6-91b8-43c1-9f94-153e34e6e83e.png)
